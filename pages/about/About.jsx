@@ -5,7 +5,7 @@ function About() {
     let content = 'FOR STARTUP AND GROWING BUSINESS, WEB AND MOBILE SOLUTIONS, CLOUD EXPERTIES, AND DYNAMIC DIGITAL MARKETING STRATEGIES PARTNER WITH US FOR A TRANSFORMATIVE JOURNEY INTO THE DIGITAL REALM'
     return (
         <div>
-            <div style={{ textAlign: 'center', fontSize:'45px', color: 'white', fontWeight: 'bold', backgroundImage: 'radial-gradient(circle, #082719, #08090C)' }}><span>Services We're Offerning</span></div>
+            <div style={{ textAlign: 'center', fontSize:'45px', color: 'white', fontWeight: 'bold', backgroundImage: 'radial-gradient(circle, #082719, #08090C)' }}><span>Services We are Offerning</span></div>
             <div className='justify-content-between g-5'>
                 <div style={{ display: 'flex', flexDirection: 'row', padding:'20px' }}>
                     <div style={{marginLeft:'140px'}}>
